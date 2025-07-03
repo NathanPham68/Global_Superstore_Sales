@@ -1,0 +1,17 @@
+Project 2: Global Superstore Sales											
+																
+1. Giới thiệu chung									
+Dataset lưu thông tin bán hàng trên thế giới của một công ty có tên là Superstore										
+Gồm 3 bảng dữ liệu:	
+- Orders: bảng lưu thông tin giao dịch										
+- People: bảng lưu thông tin của người bán hàng ở từng khu vực									
+- Returns: bảng ghi lại những giao dịch bị trả lại										
+											
+2. Đề bài											
+Senior manager muốn nắm được thông tin về tình hình kinh doanh của công ty để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược.											
+Bạn hãy tạo 1 dashboard giúp stakeholder giải quyết được những nhu cầu đó
+																		
+3. Kết quả											
+1 folder google drive bao gồm:											
+- 1 file spreadsheet ghi lại Design Thinking theo template								
+- 1 dashboard Power BI (dạng .pbix), trong dashboard thêm 1 page để ghi recommendation+insight																					
