@@ -91,6 +91,8 @@ Build a Power BI dashboard with:
 
 ・APAC, EU, LATAM, and EMEA are the four main regions, accounting for the majority of sales.
 
+・United state is the country with the largest number of orders. 
+
 3) Product Category Analysis
 
 ・Technology accounts for the highest sales (37.53%) → It is the core product category.
