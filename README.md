@@ -16,6 +16,9 @@ The dashboard empowers senior managers to gain a clear view of overall sales per
 ![image](https://github.com/user-attachments/assets/3ec09aea-f6f6-4b89-bb32-bf197a39fe02)
 
 ## II. Design Thinking Method
+
+![image](https://github.com/user-attachments/assets/2dbcf783-46f6-4f09-8bb4-318f936548d9)
+
 This project applies the Design Thinking framework to ensure the solution deeply aligns with stakeholder needs.
 
 ✅ Step 1 – Empathize
