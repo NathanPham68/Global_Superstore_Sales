@@ -68,16 +68,19 @@ Build a Power BI dashboard with:
 * Refine filters, visuals, and drill-down paths based on real user feedback.
 
 ## III. Visualization
+### 1. Entity Relationship Diagram Model
 
-### 1. Summary
+<img width="1032" height="659" alt="image" src="https://github.com/user-attachments/assets/c1bd3315-ad68-4f8b-b403-4d8e649c1671" />
+
+### 2. Summary
 
 ![image](https://github.com/user-attachments/assets/c13deb26-ad8d-4c1d-9f56-0ad102adc163)
 
-### 2. Details
+### 3. Details
 
 ![image](https://github.com/user-attachments/assets/b785b132-c213-4302-ab3d-879ef676732b)
 
-### 3. Database
+### 4. Database
 
 ![image](https://github.com/user-attachments/assets/04b7bc4c-9b8d-4c22-af21-f66813406f91)
 
