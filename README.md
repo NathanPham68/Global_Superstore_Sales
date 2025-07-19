@@ -21,51 +21,24 @@ This project applies the Design Thinking framework to ensure the solution deeply
 ![image](https://github.com/user-attachments/assets/2dbcf783-46f6-4f09-8bb4-318f936548d9)
 
 ✅ Step 1 – Empathize
-* Understand the needs, behaviors, and challenges of senior managers.
 
-* They require an overview of global sales, profit, and returns, with the ability to drill down by region, product, and customer segment.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddcc6176-2460-47af-ab31-e9d2c3f96b8c" />
 
-* Pain points include scattered data, time-consuming reports, and lack of actionable insights.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f249565d-2125-42ba-94a2-6f8a032b42cf" />
 
 ✅ Step 2 – Define
 
-Define the key business questions:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecaf6945-8b75-4b2e-93e3-172bf542c1ff" />
 
-* Which products and regions are driving the most revenue?
-
-* Where are profit margins strong or weak?
-
-* Which customers or markets have high return rates?
-
-* How is the business performing over time?
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c06d236a-09d6-4bb8-88e1-ca1807b2d9c1" />
 
 ✅ Step 3 – Ideate
 
-* Identify the best metrics and dimensions:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d10ad98f-52cb-432a-bde9-d41343c19ad4" />
 
-Metrics: Total Sales, Total Profit, Total Orders, Profit Margin, Return Rate.
+✅ Step 4 & 5 – Prototype & Review
 
-Dimensions: Region, Country, City, Product Category, Sub-Category, Customer Segment, Order Date.
-
-* Brainstorm visual layouts: KPI cards, trend lines, pie charts by category/market, maps by country/city, top/bottom product lists.
-
-✅ Step 4 – Prototype
-
-Build a Power BI dashboard with:
-
-* Summary page (KPIs & geographic map)
-
-* Details page (breakdowns by category, segment, ship mode, top products/customers)
-
-* Database page (raw transaction table for deep-dive analysis)
-
-✅ Step 5 – Review
-
-* Test the dashboard with stakeholders.
-
-* Gather feedback on usability, clarity, and actionable insights.
-
-* Refine filters, visuals, and drill-down paths based on real user feedback.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27c0170d-5895-4464-adc3-b7d544836104" />
 
 ## III. Visualization
 ### 1. Entity Relationship Diagram Model
