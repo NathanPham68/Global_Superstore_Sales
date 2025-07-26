@@ -4,8 +4,11 @@
 
 ## Table of Contents
 I. [📌 Introduction](#i.-introduction)
+
 II. [📂 Design Thinking Method](#ii.-design-thinking-method)
+
 III. [🧠 Visualization](#iii.-visualization)
+
 IV. [📊 Insights & Recommendations](#iv.-insights-&-recommendations)
 
 ## I. Introduction
