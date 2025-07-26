@@ -47,15 +47,19 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ### 2. Summary
 
-![image](https://github.com/user-attachments/assets/c13deb26-ad8d-4c1d-9f56-0ad102adc163)
+<img width="1333" height="754" alt="image" src="https://github.com/user-attachments/assets/7649d291-6f3d-485d-9984-982b0174c09f" />
 
-### 3. Details
+### 3. Market
 
-![image](https://github.com/user-attachments/assets/b785b132-c213-4302-ab3d-879ef676732b)
+<img width="1333" height="755" alt="image" src="https://github.com/user-attachments/assets/caf1bb58-dc66-42ea-befa-dd7dfaf5c00a" />
 
-### 4. Database
+### 4. Product
 
-![image](https://github.com/user-attachments/assets/04b7bc4c-9b8d-4c22-af21-f66813406f91)
+<img width="1337" height="754" alt="image" src="https://github.com/user-attachments/assets/0afae075-e485-4084-b6b9-d15abbbf1505" />
+
+### 5. Net sales
+
+<img width="1336" height="754" alt="image" src="https://github.com/user-attachments/assets/b55e3f2d-0c1d-45ce-a4fe-c6a68749bc0b" />
 
 ## IV. Insights
 1) Business Overview
