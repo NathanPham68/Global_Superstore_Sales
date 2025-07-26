@@ -2,8 +2,59 @@
 
 <img width="960" height="383" alt="image" src="https://github.com/user-attachments/assets/92f55a0a-fa65-4fff-b706-5657cf91d9dc" />
 
+## Table of Contents
+I. [📌 Introduction](#i.-introduction)
+II. [📂 Design Thinking Method](#ii.-design-thinking-method)
+III. [🧠 Visualization](#iii.-visualization)
+IV. [📊 Insights & Recommendations](#iv.-insights-&-recommendations)
+
 ## I. Introduction
-### 1. Introduction to Dataset
+📌 **Objective:**
+
+**📖 What is the purpose of this project?**
+
+This project focuses on developing a Power BI dashboard utilizing the Global Superstore Sales dataset, which contains data on Orders (transactions), People (sales representatives), and Returns (product returns).
+The main objective is to equip senior managers with data-driven insights to:
+
+- Evaluate current business performance
+ 
+- Refine strategies for market expansion
+
+- Highlight key products for strategic growth
+
+- Enable more informed decision-making to boost revenue and Return on Investment (ROI)
+
+
+👤 **Who is this project for?**
+
+✔️ Data and business analysts looking for actionable insights.
+
+✔️ Marketing and sales teams focusing on product performance and market development.
+
+✔️ Route-to-market teams aiming to enhance distribution efficiency and market penetration.
+
+
+❓ **Business Questions:**
+
+✔️ How is Superstore currently performing?
+
+✔️ Which markets offer the best opportunities for expansion to drive revenue and ROI?
+
+✔️ What products should be prioritized for strategic growth?
+
+
+🎯 **Project Outcome:**
+
+- Revenue saw strong growth, but profit margins stayed flat, suggesting increased costs and minimal efficiency improvements.  
+- Canada stood out as a high-margin market (28%) despite generating lower revenue, while Africa and EMEA had the highest YoY growth, signaling strong expansion potential.  
+- Oceania and Africa led in acquiring new customers, though most revenue continued to come from loyal repeat buyers.  
+- The Technology category drove both revenue and profit growth, though high return rates for specific SKUs (e.g., Cisco, Motorola) affected margins.  
+- Products like Copiers delivered the highest profit per unit, whereas low-performing items (e.g., Supplies, Furnishings) diluted overall profitability.
+
+By aligning regional and product strategies, senior managers can **scale in high-margin markets**, **invest in scalable profitable categories**, and **optimize acquisition and return management**, driving **sustainable long-term growth**.
+
+
+📂 **Introduction to Dataset**
 This project aims to develop a comprehensive business intelligence dashboard for a global retail company using three core datasets.
 The dashboard empowers senior managers to gain a clear view of overall sales performance, profit trends, customer behavior, product performance, and return rates — enabling data-driven decisions for market expansion and strategic product focus.
 * Consists of 3 data tables:
@@ -11,9 +62,63 @@ The dashboard empowers senior managers to gain a clear view of overall sales per
   - Table 2: People: Information of Sales person
   - Table 3: Returns: Information of Returned orders
 
-### 2. Data Dictionary
+📝 **Data Dictionary**
 
 ![image](https://github.com/user-attachments/assets/3ec09aea-f6f6-4b89-bb32-bf197a39fe02)
+
+<details>
+<summary> <strong>Table 1: Orders</strong></summary>
+
+🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).
+
+| Column Name       | Data Type   | Description                              |
+|------------------|------------|------------------------------------------|
+| `Order ID`      | `VARCHAR`   | Unique identifier for each order.       |
+| `Order Date`    | `DATE`      | Date when the order was placed.         |
+| `Ship Date`     | `DATE`      | Date when the order was shipped.        |
+| `Ship Mode`     | `VARCHAR`   | Shipping method used for delivery.      |
+| `Customer ID`   | `VARCHAR`   | Unique identifier for each customer.    |
+| `Customer Name` | `VARCHAR`   | Full name of the customer.              |
+| `Segment`       | `VARCHAR`   | Customer segment (e.g., Consumer, Corporate). |
+| `City`         | `VARCHAR`   | City where the order was placed.        |
+| `State`        | `VARCHAR`   | State where the order was placed.       |
+| `Country`      | `VARCHAR`   | Country where the order was placed.     |
+| `Postal Code`  | `VARCHAR`   | Postal code of the shipping address.    |
+| `Market`       | `VARCHAR`   | Market region (e.g., APAC, EMEA).       |
+| `Region`       | `VARCHAR`   | Geographical region of the order.       |
+| `Product ID`   | `VARCHAR`   | Unique identifier for each product.     |
+| `Category`     | `VARCHAR`   | Product category (e.g., Furniture, Office Supplies). |
+| `Sub-Category` | `VARCHAR`   | Sub-category of the product.            |
+| `Product Name` | `VARCHAR`   | Name of the product ordered.            |
+| `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
+| `Quantity`     | `INT`       | Number of items ordered.                |
+| `Profit`       | `DECIMAL`   | Profit earned from the order.           |
+
+</details>
+
+<details>
+<summary> <strong>Table 2: Returns</strong></summary>
+
+🔄 **Returns** – Stores data on returned orders.
+
+| Column Name  | Data Type | Description |
+|--------------|-----------|-------------|
+| `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
+| `Order ID`   | `VARCHAR` | Unique identifier for each order. |
+
+</details>
+
+<details>
+<summary> <strong>Table 3: People</strong></summary>
+
+👥 **People** – Holds information about sales representatives.
+
+| Column Name | Data Type | Description |
+|-------------|-----------|-------------|
+| `Person`    | `VARCHAR` | Name of the salesperson. |
+| `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
+
+</details>
 
 ## II. Design Thinking Method
 This project applies the Design Thinking framework to ensure the solution deeply aligns with stakeholder needs.
@@ -22,23 +127,23 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ✅ Step 1 – Empathize
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddcc6176-2460-47af-ab31-e9d2c3f96b8c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a24ab2eb-4a69-4fd3-b917-4a680c59ec2e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f249565d-2125-42ba-94a2-6f8a032b42cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dfb5926-f3a7-4b3d-9a34-422e190bc27d" />
 
 ✅ Step 2 – Define
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecaf6945-8b75-4b2e-93e3-172bf542c1ff" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d82b5c9e-0eaa-4de7-9398-46ae462bc3c3" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c06d236a-09d6-4bb8-88e1-ca1807b2d9c1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e57d9f74-504d-4c24-8e49-3041c125cca3" />
 
 ✅ Step 3 – Ideate
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d10ad98f-52cb-432a-bde9-d41343c19ad4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b96b8f-48f9-4540-9666-99a686c63986" />
 
 ✅ Step 4 & 5 – Prototype & Review
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27c0170d-5895-4464-adc3-b7d544836104" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aa64e38-c084-4a10-aa33-22b0cd72be89" />
 
 ## III. Visualization
 ### 1. Entity Relationship Diagram Model
@@ -61,70 +166,30 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 <img width="1336" height="754" alt="image" src="https://github.com/user-attachments/assets/b55e3f2d-0c1d-45ce-a4fe-c6a68749bc0b" />
 
-## IV. Insights
-1) Business Overview
+## IV. Insights & Recommendations
+1) Canada is the most profitable market with the highest profit margin (around 28%). It also shows zero return rate, making it a highly efficient and low-risk market. Additionally, it maintains consistently high margins across all categories and sub-categories, which makes Canada the top priority for business expansion. A deep dive into the strategies and operations of the Canada market (including resource planning and PIC) is recommended for replication in other regions.
 
-・Total sales: $12.64M, Total profit: $1.47M
+2) EMEA shows an exceptionally low overall profit margin (~5.45%), much lower than other regions. Upon closer inspection, some countries within EMEA report severely negative profit margins, dragging down the entire region’s performance. Notable underperformers include:
 
-→ Profit margin is around 11.6%, which is not very high
+・Turkey (-90.72%), Tajikistan (-108.03%), Lithuania (-128.94%), Kazakhstan (-144.28%), UAE (-156.09%), Yemen (-162.17%), and Turkmenistan (-171.54%).
 
-=> Profitability should be closely monitored.
+・These countries consistently show poor performance across categories and years. If these outliers are excluded, EMEA's adjusted profit margin would rise to ~23.89%, making it the second most profitable region after Canada. Caution and strategic review are necessary before investing further in these markets.
 
-・Return rate: 2.29%, which is an acceptable level for global sales.
+3) Copiers is the most profitable sub-category, with a profit margin of 35.68%, making it an ideal candidate for further business expansion. Other sub-categories with above-average margins include:
 
-2) Market Region Analysis
+・Tables (35.34%), Labels (30.67%), Envelopes (30.18%), Fasteners (29.23%), Accessories (28.96%), Appliances (28.13%), Storage (27.51%), Chairs (26.74%), Phones (26.57%), and Binders (25.45%).
+Focused investment in these profitable categories can help increase overall profitability.
 
-・APAC, EU, LATAM, and EMEA are the four main regions, accounting for the majority of sales.
+4) Sales and order quantities show strong seasonal and cyclical trends: Q4 consistently outperforms other quarters each year. Year-over-year sales and profits also steadily increase. This trend provides an opportunity to build accurate forecasting models for revenue and resource planning. Adequate preparation in terms of inventory, manpower, logistics, and capital will ensure smooth operations during peak seasons.
 
-・United state is the country with the largest number of orders. 
+5) Technology is the leading category in terms of net sales and profitability, but also has higher return rates in certain SKUs (e.g., Cisco, Motorola) that slightly impact overall margins. Quality control and return management strategies should be enhanced in this area.
 
-3) Product Category Analysis
+6) Products like Canon imageCLASS and Cisco Smart Phones contribute the most profit. Conversely, products such as Cubify CubeX 3D Printers and Bevis Round Tables yield the largest losses. The business should consider discontinuing or repositioning low-performing products.
 
-・Technology accounts for the highest sales (37.53%) → It is the core product category.
+7) In terms of customer segmentation, returning customers account for the majority of revenue, while new customers are mostly from Oceania and Africa. These regions show high acquisition potential, and targeted marketing campaigns could help boost growth there.
 
-・Office Supplies and Furniture also contribute significantly, though to a lesser extent.
-However, some technology products are heavily unprofitable (e.g., Cubby Cubex 3D) → these should be reviewed for potential removal or strategic adjustment.
+8) Standard Class shipping is the most used method (60.06% of sales), but First Class and Second Day offer slightly better profitability. The company should assess logistics costs vs. customer value to optimize shipping strategy.
 
-4) Top Products and Customers
+9) At the market level, while Canada ranks highest in profit margin, Africa and EMEA show the highest YoY growth. These markets may offer strong long-term growth potential if challenges are managed strategically.
 
-・Canon ImageCLASS and Cisco Smart Phone are the most profitable products.
-
-・Top 5 customers generate consistent profits (from $7.4k to $8.6k) → These are VIP customers who require special attention.
-
-5) Growth Trends
-
-・Sales and profits showed positive growth year-over-year from 2011 to 2014, especially strong starting in 2013 → A positive trend.
-
-6) Logistics
-
-・Average delivery time: 3.97 days
-
-・Returned orders are not negligible (1,172 orders) → Needs further investigation (product quality? delayed delivery?)
-
-## V. Recommendations
-1) Focus on High-Potential Markets
-
-・Strengthen presence in APAC and EU, which already show strong sales and have further potential.
-
-・Prioritize expansion in EMEA, as it holds a significant market share but hasn't seen explosive growth yet.
-
-2) Optimize Product Portfolio
-
-・Continue investing in high-margin technology products.
-
-・Review and remove or improve loss-making products (e.g., Cubby Cubex 3D).
-
-・Consider upselling / cross-selling Office Supplies and Furniture to technology customers.
-
-3) Nurture VIP Customers
-
-・Design special loyalty programs for high-profit customers (e.g., Bill Eplett, Hunter Lopez, etc.).
-
-・Provide faster delivery and better after-sales support for this customer segment.
-
-4) Improve Logistics and Return Control
-
-・Conduct deeper analysis into the reasons for product returns to improve product quality or service.
-
-・Enhance order tracking and ensure more accurate delivery commitments.
-
+10) Lastly, the overall return rate is 2.29%, and total unique products exceed 10,000 SKUs, indicating a diverse product portfolio. However, not all products contribute equally to profit—there is potential for SKU rationalization to boost efficiency and margins.
