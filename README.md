@@ -12,9 +12,7 @@ III. [🧠 Visualization](#iii.-visualization)
 IV. [📊 Insights & Recommendations](#iv.-insights-&-recommendations)
 
 ## I. Introduction
-📌 **Objective:**
-
-**📖 What is the purpose of this project?**
+### 📖 **What is the purpose of this project?**
 
 This project focuses on developing a Power BI dashboard utilizing the Global Superstore Sales dataset, which contains data on Orders (transactions), People (sales representatives), and Returns (product returns).
 The main objective is to equip senior managers with data-driven insights to:
@@ -27,8 +25,7 @@ The main objective is to equip senior managers with data-driven insights to:
 
 - Enable more informed decision-making to boost revenue and Return on Investment (ROI)
 
-
-👤 **Who is this project for?**
+### 👤 **Who is this project for?**
 
 ✔️ Data and business analysts looking for actionable insights.
 
@@ -36,8 +33,7 @@ The main objective is to equip senior managers with data-driven insights to:
 
 ✔️ Route-to-market teams aiming to enhance distribution efficiency and market penetration.
 
-
-❓ **Business Questions:**
+### ❓ **Business Questions:**
 
 ✔️ How is Superstore currently performing?
 
@@ -45,8 +41,7 @@ The main objective is to equip senior managers with data-driven insights to:
 
 ✔️ What products should be prioritized for strategic growth?
 
-
-🎯 **Project Outcome:**
+### 🎯 **Project Outcome:**
 
 - Revenue saw strong growth, but profit margins stayed flat, suggesting increased costs and minimal efficiency improvements.  
 - Canada stood out as a high-margin market (28%) despite generating lower revenue, while Africa and EMEA had the highest YoY growth, signaling strong expansion potential.  
@@ -56,23 +51,15 @@ The main objective is to equip senior managers with data-driven insights to:
 
 By aligning regional and product strategies, senior managers can **scale in high-margin markets**, **invest in scalable profitable categories**, and **optimize acquisition and return management**, driving **sustainable long-term growth**.
 
-
-📂 **Introduction to Dataset**
+### 📂 **Introduction to Dataset**
 
 This project aims to develop a comprehensive business intelligence dashboard for a global retail company using three core datasets.
 The dashboard empowers senior managers to gain a clear view of overall sales performance, profit trends, customer behavior, product performance, and return rates — enabling data-driven decisions for market expansion and strategic product focus.
 
-* Consists of 3 data tables:
-  - Table 1: Orders: Fact order
-  - Table 2: People: Information of Sales person
-  - Table 3: Returns: Information of Returned orders
-
-📝 **Data Dictionary**
-
-![image](https://github.com/user-attachments/assets/3ec09aea-f6f6-4b89-bb32-bf197a39fe02)
+* 📝 Consists of 3 data tables:
 
 <details>
-<summary> <strong>Table 1: Orders</strong></summary>
+<summary> <strong>Table 1: Orders (Fact order)</strong></summary>
 
 🛒 **Orders** – Contains detailed transaction and customer information (**51,290 records**).
 
@@ -102,7 +89,7 @@ The dashboard empowers senior managers to gain a clear view of overall sales per
 </details>
 
 <details>
-<summary> <strong>Table 2: Returns</strong></summary>
+<summary> <strong>Table 2: Returns (Information of Returned orders)</strong></summary>
 
 🔄 **Returns** – Stores data on returned orders.
 
@@ -114,7 +101,7 @@ The dashboard empowers senior managers to gain a clear view of overall sales per
 </details>
 
 <details>
-<summary> <strong>Table 3: People</strong></summary>
+<summary> <strong>Table 3: People (Information of Sales person)</strong></summary>
 
 👥 **People** – Holds information about sales representatives.
 
