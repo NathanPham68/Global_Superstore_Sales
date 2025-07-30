@@ -58,8 +58,10 @@ By aligning regional and product strategies, senior managers can **scale in high
 
 
 📂 **Introduction to Dataset**
+
 This project aims to develop a comprehensive business intelligence dashboard for a global retail company using three core datasets.
 The dashboard empowers senior managers to gain a clear view of overall sales performance, profit trends, customer behavior, product performance, and return rates — enabling data-driven decisions for market expansion and strategic product focus.
+
 * Consists of 3 data tables:
   - Table 1: Orders: Fact order
   - Table 2: People: Information of Sales person
