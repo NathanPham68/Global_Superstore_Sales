@@ -1,4 +1,4 @@
-# [POWER BI] Global_Superstore_Sales
+# [POWER BI] How to Monitor Net Sales Effectively – Sales Performance Analysis
 
 <img width="960" height="383" alt="image" src="https://github.com/user-attachments/assets/92f55a0a-fa65-4fff-b706-5657cf91d9dc" />
 
