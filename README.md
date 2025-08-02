@@ -14,24 +14,7 @@ IV. [📊 Insights & Recommendations](#iv.-insights-&-recommendations)
 ## I. Introduction
 ### 📖 **What is the purpose of this project?**
 
-This project focuses on developing a Power BI dashboard utilizing the Global Superstore Sales dataset, which contains data on Orders (transactions), People (sales representatives), and Returns (product returns).
-The main objective is to equip senior managers with data-driven insights to:
-
-- Evaluate current business performance
- 
-- Refine strategies for market expansion
-
-- Highlight key products for strategic growth
-
-- Enable more informed decision-making to boost revenue and Return on Investment (ROI)
-
-### 👤 **Who is this project for?**
-
-✔️ Data and business analysts looking for actionable insights.
-
-✔️ Marketing and sales teams focusing on product performance and market development.
-
-✔️ Route-to-market teams aiming to enhance distribution efficiency and market penetration.
+This project centers on building a Power BI dashboard using the Global Superstore Sales dataset, which includes information on orders, sales representatives and product returns. Its primary goal is to provide senior managers with actionable insights to assess performance, identify growth opportunities, focus on strategic products, and make informed decisions that enhance revenue and Return on Investment (ROI).
 
 ### ❓ **Business Questions:**
 
@@ -40,6 +23,14 @@ The main objective is to equip senior managers with data-driven insights to:
 ✔️ Which markets offer the best opportunities for expansion to drive revenue and ROI?
 
 ✔️ What products should be prioritized for strategic growth?
+
+### 👤 **Who is this project for?**
+
+✔️ Data and business analysts looking for actionable insights.
+
+✔️ Marketing and sales teams focusing on product performance and market development.
+
+✔️ Route-to-market teams aiming to enhance distribution efficiency and market penetration.
 
 ### 🎯 **Project Outcome:**
 
@@ -53,10 +44,7 @@ By aligning regional and product strategies, senior managers can **scale in high
 
 ### 📂 **Introduction to Dataset**
 
-This project aims to develop a comprehensive business intelligence dashboard for a global retail company using three core datasets.
-The dashboard empowers senior managers to gain a clear view of overall sales performance, profit trends, customer behavior, product performance, and return rates — enabling data-driven decisions for market expansion and strategic product focus.
-
-* 📝 Consists of 3 data tables:
+The Dataset consists of 3 data tables:
 
 <details>
 <summary> <strong>Table 1: Orders (Fact order)</strong></summary>
