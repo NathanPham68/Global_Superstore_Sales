@@ -132,44 +132,70 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ### 2. Summary
 
-<img width="1333" height="754" alt="image" src="https://github.com/user-attachments/assets/7649d291-6f3d-485d-9984-982b0174c09f" />
+<img width="1333" height="753" alt="image" src="https://github.com/user-attachments/assets/db2502be-08b3-48e8-bc64-579ba33db270" />
+
+* Total profit margin is moderate and stable across years, but has not improved significantly—indicating increased costs or operational inefficiencies.
+
+* Q4 consistently shows the highest revenue and order quantity, suggesting strong seasonal demand.
+
+* Returning customers dominate total revenue, while new customer acquisition is limited to certain regions like Oceania and Africa.
 
 ### 3. Market
 
-<img width="1333" height="755" alt="image" src="https://github.com/user-attachments/assets/caf1bb58-dc66-42ea-befa-dd7dfaf5c00a" />
+<img width="1333" height="753" alt="image" src="https://github.com/user-attachments/assets/96d8c311-0932-4645-aa03-b8b6417b3b36" />
+
+* Canada leads with the highest profit margin (26.62%) and 0% return rate, making it the most profitable and efficient market.
+
+* EMEA shows lowest profit margin (5.45%), mainly due to extreme negative margins in specific countries.
+
+* If underperforming countries are removed, EMEA’s adjusted margin reaches 23.89%, second only to Canada.
 
 ### 4. Product
 
-<img width="1337" height="754" alt="image" src="https://github.com/user-attachments/assets/0afae075-e485-4084-b6b9-d15abbbf1505" />
+<img width="1333" height="756" alt="image" src="https://github.com/user-attachments/assets/36a2a0ca-8488-4c86-a1b6-9a07a3c76ff8" />
+
+* Copiers is the most profitable sub-category (35.68% profit margin).
+
+* Other high-margin products include: Tables, Labels, Envelopes, Fasteners, Accessories, Storage.
+
+* Categories like Supplies, Art, Machines have significantly lower margins.
 
 ### 5. Net sales
 
-<img width="1336" height="754" alt="image" src="https://github.com/user-attachments/assets/b55e3f2d-0c1d-45ce-a4fe-c6a68749bc0b" />
+<img width="1333" height="757" alt="image" src="https://github.com/user-attachments/assets/46437a22-5de8-471b-914f-63559b3a9854" />
+
+* Technology leads in revenue, but faces higher return rates, especially with brands like Cisco and Motorola.
+
+* Top-selling products (e.g., Canon imageCLASS) contribute significantly to profit.
+
+* Some SKUs such as Cubify CubeX 3D Printers are consistently unprofitable.
 
 ## IV. Insights & Recommendations
-1) Canada is the most profitable market with the highest profit margin (around 28%). It also shows zero return rate, making it a highly efficient and low-risk market. Additionally, it maintains consistently high margins across all categories and sub-categories, which makes Canada the top priority for business expansion. A deep dive into the strategies and operations of the Canada market (including resource planning and PIC) is recommended for replication in other regions.
 
-2) EMEA shows an exceptionally low overall profit margin (~5.45%), much lower than other regions. Upon closer inspection, some countries within EMEA report severely negative profit margins, dragging down the entire region’s performance. Notable underperformers include:
+### Insights
 
-・Turkey (-90.72%), Tajikistan (-108.03%), Lithuania (-128.94%), Kazakhstan (-144.28%), UAE (-156.09%), Yemen (-162.17%), and Turkmenistan (-171.54%).
+The analysis revealed several key patterns in sales and operations:
 
-・These countries consistently show poor performance across categories and years. If these outliers are excluded, EMEA's adjusted profit margin would rise to ~23.89%, making it the second most profitable region after Canada. Caution and strategic review are necessary before investing further in these markets.
+* Top-performing regions and customer segments significantly contribute to overall revenue, while certain markets underperform consistently.
 
-3) Copiers is the most profitable sub-category, with a profit margin of 35.68%, making it an ideal candidate for further business expansion. Other sub-categories with above-average margins include:
+* Profitability is not directly tied to sales volume — some high-sales categories have low or even negative profit margins.
 
-・Tables (35.34%), Labels (30.67%), Envelopes (30.18%), Fasteners (29.23%), Accessories (28.96%), Appliances (28.13%), Storage (27.51%), Chairs (26.74%), Phones (26.57%), and Binders (25.45%).
-Focused investment in these profitable categories can help increase overall profitability.
+* Returns are concentrated in specific product categories and regions, indicating potential quality or service issues.
 
-4) Sales and order quantities show strong seasonal and cyclical trends: Q4 consistently outperforms other quarters each year. Year-over-year sales and profits also steadily increase. This trend provides an opportunity to build accurate forecasting models for revenue and resource planning. Adequate preparation in terms of inventory, manpower, logistics, and capital will ensure smooth operations during peak seasons.
+* Sales trends fluctuate seasonally, and specific months consistently outperform others, suggesting opportunities for targeted promotions.
 
-5) Technology is the leading category in terms of net sales and profitability, but also has higher return rates in certain SKUs (e.g., Cisco, Motorola) that slightly impact overall margins. Quality control and return management strategies should be enhanced in this area.
+* Sales representatives' performance varies widely by region, with some outperforming peers in similar conditions.
 
-6) Products like Canon imageCLASS and Cisco Smart Phones contribute the most profit. Conversely, products such as Cubify CubeX 3D Printers and Bevis Round Tables yield the largest losses. The business should consider discontinuing or repositioning low-performing products.
+### Recommendations
 
-7) In terms of customer segmentation, returning customers account for the majority of revenue, while new customers are mostly from Oceania and Africa. These regions show high acquisition potential, and targeted marketing campaigns could help boost growth there.
+* Refocus marketing and sales efforts on high-margin products and profitable customer segments to maximize ROI.
 
-8) Standard Class shipping is the most used method (60.06% of sales), but First Class and Second Day offer slightly better profitability. The company should assess logistics costs vs. customer value to optimize shipping strategy.
+* Investigate root causes of high return rates in key categories and implement corrective actions such as product quality reviews or better customer education.
 
-9) At the market level, while Canada ranks highest in profit margin, Africa and EMEA show the highest YoY growth. These markets may offer strong long-term growth potential if challenges are managed strategically.
+* Optimize inventory and staffing based on seasonal trends to improve efficiency and responsiveness.
 
-10) Lastly, the overall return rate is 2.29%, and total unique products exceed 10,000 SKUs, indicating a diverse product portfolio. However, not all products contribute equally to profit—there is potential for SKU rationalization to boost efficiency and margins.
+* Launch training or support programs for underperforming sales reps to enhance overall team performance.
+
+* Explore market expansion in regions with steady growth potential and proven customer demand.
+
+
