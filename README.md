@@ -107,23 +107,23 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ✅ Step 1 – Empathize
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a24ab2eb-4a69-4fd3-b917-4a680c59ec2e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86f33f38-b781-4cb9-acf2-2cf60a4fae0f" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dfb5926-f3a7-4b3d-9a34-422e190bc27d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ccea557c-6791-4db2-80b1-a578959f6735" />
 
 ✅ Step 2 – Define
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d82b5c9e-0eaa-4de7-9398-46ae462bc3c3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df2c5159-db08-4fac-85e6-98da29d14bc3" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e57d9f74-504d-4c24-8e49-3041c125cca3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68a8b8f4-8d5b-4357-b50d-96139c469fbd" />
 
 ✅ Step 3 – Ideate
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b96b8f-48f9-4540-9666-99a686c63986" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64590c92-7f2f-4821-adf8-612182b6bf27" />
 
 ✅ Step 4 & 5 – Prototype & Review
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aa64e38-c084-4a10-aa33-22b0cd72be89" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96053501-e0c9-4cd2-ad93-1b8e8a048f88" />
 
 ## III. Visualization
 ### 1. Entity Relationship Diagram Model
