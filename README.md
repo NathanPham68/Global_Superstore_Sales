@@ -132,43 +132,82 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ### 2. Summary
 
-<img width="1333" height="753" alt="image" src="https://github.com/user-attachments/assets/db2502be-08b3-48e8-bc64-579ba33db270" />
+<img width="1333" height="821" alt="image" src="https://github.com/user-attachments/assets/727889a6-f8f4-4ce5-ad75-12781ead6832" />
 
 * Total profit margin is moderate and stable across years, but has not improved significantly—indicating increased costs or operational inefficiencies.
 
 * Q4 consistently shows the highest revenue and order quantity, suggesting strong seasonal demand.
 
+👉🏻 Leverage Q4 seasonal peaks through targeted marketing campaigns, bundled offers, and stock optimization.
+
 * Returning customers dominate total revenue, while new customer acquisition is limited to certain regions like Oceania and Africa.
+
+👉🏻 Develop regional acquisition strategies with tailored product mixes to penetrate markets where new customer growth is low.
 
 ### 3. Market
 
-<img width="1333" height="753" alt="image" src="https://github.com/user-attachments/assets/96d8c311-0932-4645-aa03-b8b6417b3b36" />
+<img width="1333" height="823" alt="image" src="https://github.com/user-attachments/assets/99625ba4-d2bb-4bb5-bf17-fbbec3dab6de" />
 
 * Canada leads with the highest profit margin (26.62%) and 0% return rate, making it the most profitable and efficient market.
 
 * EMEA shows lowest profit margin (5.45%), mainly due to extreme negative margins in specific countries.
 
-* If underperforming countries are removed, EMEA’s adjusted margin reaches 23.89%, second only to Canada.
+* Other markets show moderate performance, with certain high-growth potential areas still underdeveloped.
+
+* **Markets Recommended for Expansion:** Canada, High-Performing Countries in EMEA, High-Growth Emerging Markets in APAC & LATAM
+
+* Recommended Strategies by Market Type
+  - **Mature & Highly Profitable Markets** (e.g., Canada)
+    
+    - Double down on customer loyalty programs to retain high-value customers.
+
+    - Introduce premium product lines and bundled offers to increase Average Order Value (AOV).
+
+    - Maintain operational excellence to sustain the low return rate.
+
+  -  **Selective Expansion Markets** (Profitable countries in EMEA, parts of APAC/LATAM)
+    
+    - Localized Product Strategy: Adapt product assortments to local preferences.
+    
+    - Targeted Marketing: Use regional data to run culturally relevant campaigns.
+    
+    - Strategic Partnerships: Work with local distributors to reduce market entry risks.
+
+  -  **Underperforming or Loss-Making Markets**
+
+    - Conduct deep profitability audits to identify structural issues (pricing, logistics, product fit).
+    
+    - Reduce or exit markets with persistently negative margins unless there is a clear turnaround plan.
+    
+    - Shift focus to digital sales channels to lower operational costs and test market responsiveness.
 
 ### 4. Product
 
-<img width="1333" height="756" alt="image" src="https://github.com/user-attachments/assets/36a2a0ca-8488-4c86-a1b6-9a07a3c76ff8" />
+<img width="1333" height="815" alt="image" src="https://github.com/user-attachments/assets/c34ee793-45ab-4446-bbc0-bb1737780e40" />
 
-* Copiers is the most profitable sub-category (35.68% profit margin).
+* Paper is the most profitable sub-category (23.93% profit margin).
 
-* Other high-margin products include: Tables, Labels, Envelopes, Fasteners, Accessories, Storage.
+* Other high-margin products include: Labels (20.19%), Envelopes (17.05%), Accessories (16.98%), Copiers (16.77%), Binders (16.41%).
 
-* Categories like Supplies, Art, Machines have significantly lower margins.
+👉🏻 Focus sales and promotional efforts on high-margin categories to boost total profitability.
+
+* Categories like Tables, Machines, Supplies, Chairs have significantly lower margins.
+
+👉🏻 Review pricing and sourcing strategies for low-margin products; consider discontinuation or redesign for underperforming SKUs.
 
 ### 5. Net sales
 
-<img width="1333" height="757" alt="image" src="https://github.com/user-attachments/assets/46437a22-5de8-471b-914f-63559b3a9854" />
+<img width="1333" height="821" alt="image" src="https://github.com/user-attachments/assets/f546eb88-6d72-4778-8592-3cf2acc8dcb2" />
 
 * Technology leads in revenue, but faces higher return rates, especially with brands like Cisco and Motorola.
 
 * Top-selling products (e.g., Canon imageCLASS) contribute significantly to profit.
 
+👉🏻 Expand marketing around top-selling, high-profit products to strengthen their market share.
+
 * Some SKUs such as Cubify CubeX 3D Printers are consistently unprofitable.
+
+👉🏻 Discontinue or phase out chronically unprofitable SKUs, reallocating shelf space and marketing spend toward proven performers.
 
 ## IV. Insights & Recommendations
 
