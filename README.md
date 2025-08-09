@@ -211,8 +211,6 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ## IV. Insights & Recommendations
 
-## 🔎 Final Conclusion & Recommendation
-
 | **Strategy** | **Insight** | **Recommendation** |
 |--------------|-------------|--------------------|
 | **🚀 1. Market Expansion Strategy** | - **Canada** remains the most profitable market (**26.62% margin**) with a **0% return rate**, though total revenue is relatively modest.<br> - **EMEA** shows the lowest overall margin (**5.45%**), but after excluding loss-making countries, adjusted margin climbs to **23.89%**.<br> - **North Asia** & **Caribbean** deliver the highest share of **new customers**, though absolute revenue is still small.<br> - **APAC** markets show moderate margins with room for growth. | - **Deepen market penetration in Canada** through upselling and premium offerings.<br> - **Target profitable countries in EMEA** for expansion; restructure or exit persistent loss-makers.<br> - **Increase marketing in North Asia & Caribbean** to convert new customers into loyal buyers.<br> - **Invest in APAC** with localized product strategies. |
