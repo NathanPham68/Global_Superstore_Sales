@@ -211,30 +211,14 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
 ## IV. Insights & Recommendations
 
-### Insights
+## 🔎 Final Conclusion & Recommendation
 
-The analysis revealed several key patterns in sales and operations:
+| **Strategy** | **Insight** | **Recommendation** |
+|--------------|-------------|--------------------|
+| **🚀 1. Market Expansion Strategy** | - **Canada** remains the most profitable market (**26.62% margin**) with a **0% return rate**, though total revenue is relatively modest.<br> - **EMEA** shows the lowest overall margin (**5.45%**), but after excluding loss-making countries, adjusted margin climbs to **23.89%**.<br> - **North Asia** & **Caribbean** deliver the highest share of **new customers**, though absolute revenue is still small.<br> - **APAC** markets show moderate margins with room for growth. | - **Deepen market penetration in Canada** through upselling and premium offerings.<br> - **Target profitable countries in EMEA** for expansion; restructure or exit persistent loss-makers.<br> - **Increase marketing in North Asia & Caribbean** to convert new customers into loyal buyers.<br> - **Invest in APAC** with localized product strategies. |
+| **🛒 2. Product Portfolio Optimization** | - **Paper** lead in profitability (**23.93% margin**), followed by **Labels, Envelopes, Accessories, Copiers, Binders**.<br> - **Tables, Machines, Supplies, Chairs** show consistently low margins.<br> - Certain SKUs (e.g., **Cubify CubeX 3D Printers**) are repeatedly unprofitable.<br> - Technology drives revenue but faces **higher return rates** (Cisco, Motorola). | - **Scale Copier sales** and promote other high-margin subcategories.<br> - **Phase out or reprice** low-margin categories like Supplies and Machines.<br> - **Audit and replace** unprofitable SKUs.<br> - **Reduce return rates** in Technology via better product education and quality checks. |
+| **👥 3. Customer Strategy** | - **Returning customers** contribute the majority of total revenue (~99%).<br> - **North Asia** & **Caribbean** show the largest growth in **new customer acquisition**.<br> - Certain regions have strong brand loyalty but low acquisition rates. | - **Implement loyalty and rewards programs** for existing customers.<br> - **Accelerate acquisition in North Asia & Caribbean** via targeted digital campaigns.<br> - **Introduce referral incentives** to blend retention and acquisition efforts. |
+| **⚙️ 4. Operational Efficiency** | - **Q4** consistently drives peak revenue and orders, highlighting strong seasonal demand.<br> - **Canada’s operational model** delivers both high profitability and zero returns.<br> - Some markets incur high logistics costs or frequent product returns.<br> - Loss-making regions dilute global average margins. | - **Leverage Q4 seasonality** with pre-holiday promotions and inventory planning.<br> - **Replicate Canada’s operational practices** in other regions.<br> - **Reduce return rates** through improved product descriptions and QA.<br> - **Exit or restructure** chronically unprofitable regions to protect margins. |
 
-* Top-performing regions and customer segments significantly contribute to overall revenue, while certain markets underperform consistently.
-
-* Profitability is not directly tied to sales volume — some high-sales categories have low or even negative profit margins.
-
-* Returns are concentrated in specific product categories and regions, indicating potential quality or service issues.
-
-* Sales trends fluctuate seasonally, and specific months consistently outperform others, suggesting opportunities for targeted promotions.
-
-* Sales representatives' performance varies widely by region, with some outperforming peers in similar conditions.
-
-### Recommendations
-
-* Refocus marketing and sales efforts on high-margin products and profitable customer segments to maximize ROI.
-
-* Investigate root causes of high return rates in key categories and implement corrective actions such as product quality reviews or better customer education.
-
-* Optimize inventory and staffing based on seasonal trends to improve efficiency and responsiveness.
-
-* Launch training or support programs for underperforming sales reps to enhance overall team performance.
-
-* Explore market expansion in regions with steady growth potential and proven customer demand.
 
 
