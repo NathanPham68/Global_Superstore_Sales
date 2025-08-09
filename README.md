@@ -157,7 +157,7 @@ This project applies the Design Thinking framework to ensure the solution deeply
 * **Markets Recommended for Expansion:** Canada, High-Performing Countries in EMEA, High-Growth Emerging Markets in APAC & LATAM
 
 * Recommended Strategies by Market Type
-  - **Mature & Highly Profitable Markets** (e.g., Canada)
+  * **Mature & Highly Profitable Markets** (e.g., Canada)
     
     - Double down on customer loyalty programs to retain high-value customers.
 
@@ -165,7 +165,7 @@ This project applies the Design Thinking framework to ensure the solution deeply
 
     - Maintain operational excellence to sustain the low return rate.
 
-  -  **Selective Expansion Markets** (Profitable countries in EMEA, parts of APAC/LATAM)
+  * **Selective Expansion Markets** (Profitable countries in EMEA, parts of APAC/LATAM)
     
     - Localized Product Strategy: Adapt product assortments to local preferences.
     
@@ -173,7 +173,7 @@ This project applies the Design Thinking framework to ensure the solution deeply
     
     - Strategic Partnerships: Work with local distributors to reduce market entry risks.
 
-  -  **Underperforming or Loss-Making Markets**
+  * **Underperforming or Loss-Making Markets**
 
     - Conduct deep profitability audits to identify structural issues (pricing, logistics, product fit).
     
